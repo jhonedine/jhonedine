@@ -7,7 +7,7 @@ Soy un apasionado por la **Ciencia de Datos**, el **Machine Learning** y la **re
 
 ## 🚀 Sobre mí
 
-- 📊 Ingeniero con enfoque en ciencia de datos y enfocado en extraer valor de los datos.
+- 📊 Ingeniero con enfoque en ciencia de datos y en extraer valor de los datos.
 - 🧠 Apasionado por modelos predictivos, NLP, clasificación y series temporales.
 - ⚙️ Experiencia con herramientas como **Python**, **Pandas**, **Scikit-learn**, **Keras**, **PySpark**, **SQL**, **MLflow**, y **Power BI**.
 - 🧰 Familiar con prácticas de desarrollo como `versionamiento`, `pipelines`, y `deploy` de modelos.
