@@ -1,61 +1,53 @@
-### Hi there 👋
+# 👋 ¡Hola! Soy John Mendoza
 
+¡Bienvenido a mi espacio en GitHub!  
+Soy un apasionado por la **Ciencia de Datos**, el **Machine Learning** y la **resolución de problemas con datos reales**. Aquí encontrarás proyectos que combinan análisis estadístico, visualización de datos, aprendizaje automático y desarrollo de modelos para casos prácticos.
 
-# Hola , Yo soy  John Mendoza
-Ingeniero Industrial con habilidades a nivel estadístico, análisis de datos experiencia en manejo de bases de datos, lenguajes de programación como  ,**Python**, **R**   siempre dispuesto a los retos en busca de la mejora continua laboral y académica , Soy una persona responsable, positiva e innovadora con mucho sentido de pertenencia Organizado con habilidades analíticas y comunicativas para conectar con diversos públicos. 
+---
 
+## 🚀 Sobre mí
 
+- 📊 Profesional enfocado en extraer valor de los datos.
+- 🧠 Apasionado por modelos predictivos, NLP, clasificación y series temporales.
+- ⚙️ Experiencia con herramientas como **Python**, **Pandas**, **Scikit-learn**, **Keras**, **PySpark**, **SQL**, **MLflow**, y **Power BI**.
+- 🧰 Familiar con prácticas de desarrollo como `versionamiento`, `pipelines`, y `deploy` de modelos.
 
-| Estudios               | Institucion |
-| ------                 | ------ |
-| Ingeniero Industrial   | Universidad Catolica de Colombia |
-| Ciencia de Datos       | Universidad Nacional de Colombia |
+---
 
-## Comandos en la terminal
+## 📂 Proyectos Destacados
 
-| COMANDO | DESCRIPCIÓN                                                            |
-| ------- | ---------------------------------------------------------------------- |
-| pwd     | Imprimir directorio de trabajo.                                        |
-| date    | fecha actual                                                           |
-| uptime  | Tiempo transcurrido desde ultima apagada                               |
-| cal     | muestra calendario (sudo apt install ncal)                             |
-| df      | espacio disco duro.                                                    |
-| whoami  | quien soy                                                              |
-| ls      | lista directorios (list directory contents)                            |
-| cd      | cambiar de directorio (change directory)                               |
-| mkdir   | crear directorio (make directory)                                      |
-| cp -r   | copiar de manera recursiva (copy)                                      |
-| rm -r   | eliminar de manera recursiva (remove)                                  |
-| touch   | crear archivo                                                          |
-| cat     | mostrar contenido de un archivo                                        |
-| more    | similar a cat pero permite navegar usando comandos tipo VIM            |
-| mv      | mover un archivo de un lugar a otro / cambiar el nombre de un archivo. |
-| cd ~    | Ir al home                                                             |
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| 🔍 **Fake News Detection** | Clasificación de noticias reales y falsas usando modelos como XGBoost y BERT. Incluye MLflow para versionado. | `Python`, `Sklearn`, `XGBoost`, `MLflow` |
+| 📈 **Análisis de Clientes Telco** | Exploración, visualización y segmentación de clientes de telecomunicaciones. | `Pandas`, `Matplotlib`, `Seaborn`, `Power BI` |
+| 🧾 **Predicción de Riesgo de Crédito** | Clasificación del riesgo crediticio para decisiones financieras. | `Logistic Regression`, `Random Forest`, `Pipeline` |
+| 🤖 **NLP: Clasificación de texto** | Modelos para análisis de sentimientos y categorización automática. | `NLP`, `TF-IDF`, `Naive Bayes`, `Keras` |
 
-## Atajos de comandos en la terminal
+Puedes ver más en la pestaña de [Repositorios](https://github.com/jhonedine?tab=repositories).
 
-| COMANDO     | DESCRIPCIÓN                                 |
-| ----------- | ------------------------------------------- |
-| ctrl + c    | cancela la ejecución de un proceso          |
-| ctrl + u    | borrar línea                                |
-| ctrl + w    | eliminar última palabra de lo q escribimos. |
-| ctrl + a    | ir al inicio de la línea                    |
-| ctrl + e    | ir al final de una línea                    |
-| ctrl + l    | limpiar la pantalla                         |
-| F arriba    | comando anterior                            |
-| F abajo     | comando siguiente                           |
-| alt + b     | movernos entre palabras hacia atras         |
-| alt + f     | movernos entre palabras hacia delante       |
-| ctrl + r    | búsqueda recursiva                          |
-| echo $SHELL | saber el shell q se tiene                   |
+---
 
-## Comandos en la terminal para alias
+## 🧰 Tecnologías y Herramientas
 
-| COMANDO                                                       | DESCRIPCIÓN                                                                                         |
-| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| alias findd="ls ~/ \| grep $1"                                | Buscar archivo/directorio coincidente                                                               |
-| alias npmd="npm run dev"                                      | Ejecutar servidor en ambiente desarrollo                                                            |
-| alias npms="npm start"                                        | Ejecutar script start                                                                               |
-| alias rm="trash"                                              | Ejecutar comando trash                                                                              |
-| alias cl="clear"                                              | Limpiar pantalla                                                                                    |
-| alias cafe="cat /dev/urandom \| hexdump \| grep \\"ca fe\\" " | Generar listado de números aleatorios en hexadecimal y buscar "ca fe" dentro de el listado generado |
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![MLflow](https://img.shields.io/badge/-MLflow-0078D4?logo=mlflow&logoColor=white)
+
+---
+
+## 📫 Contáctame
+
+- ✉️ Email:
+jhonedine182@gmail.com
+ j.mendoza7@uniandes.edu.co  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jhon-mendoza182)  
+- 🌐 Portafolio Web: _en construcción_
+
+---
+
+> _“La ciencia de datos no es magia, es método, curiosidad y una obsesión por entender el porqué.”_
